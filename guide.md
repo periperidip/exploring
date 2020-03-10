@@ -86,8 +86,10 @@ Operating Systems
 
 ### Exploits and pwning
 -------------------------------
-<<add resources>>
-
+https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN: liveoverflow binary hacking playlist
+pwnable.kr: Challenges starting from basic programming errors to standard pwnables
+gracker.org: Nice binary exploitation challenge series. Good for beginners
+https://dhavalkapil.com/archive/ : Blogs by Dhaval Kapil on some basic/intermediate information security
 
 
 
