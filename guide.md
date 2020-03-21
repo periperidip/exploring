@@ -33,7 +33,7 @@ crucial part of this whole journey, _trying to pick something to work upon_.
 
 ### Parallel Computing
 -------------------------------
-<<add resources>>
+(add resources)
 
 
 
@@ -44,7 +44,7 @@ crucial part of this whole journey, _trying to pick something to work upon_.
 
 ### Quantum Computing
 -------------------------------
-<<add resources>>
+(add resources)
 
 
 
@@ -52,9 +52,11 @@ crucial part of this whole journey, _trying to pick something to work upon_.
 
 
 
-Operating Systems
+
+### Operating Systems
 -------------------------------
-<<add resources>>
+(add resources)
+
 
 
 
@@ -93,7 +95,8 @@ These are just a few things to keep in mind as a beginner. You will be able to f
 
 ### Mobile Development
 -------------------------------
-<<add resources>>
+(add resources)
+
 
 
 
@@ -102,7 +105,8 @@ These are just a few things to keep in mind as a beginner. You will be able to f
 
 ### Game Development
 -------------------------------
-<<add resources>>
+(add resources)
+
 
 
 
@@ -110,16 +114,17 @@ These are just a few things to keep in mind as a beginner. You will be able to f
 
 ### Exploits and pwning
 -------------------------------
-https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN: liveoverflow binary hacking playlist
-pwnable.kr: Challenges starting from basic programming errors to standard pwnables
-gracker.org: Nice binary exploitation challenge series. Good for beginners
-https://dhavalkapil.com/archive/ : Blogs by Dhaval Kapil on some basic/intermediate information security
+- **https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN**: liveoverflow binary hacking playlist
+- **pwnable.kr**: Challenges starting from basic programming errors to standard pwnables
+- **gracker.org**: Nice binary exploitation challenge series. Good for beginners
+- **https://dhavalkapil.com/archive/**: Blogs by Dhaval Kapil on some basic/intermediate information security
 
 
 
 ### Web Development
 -------------------------------
-<<add resources>>
+(add resources)
+
 
 
 
