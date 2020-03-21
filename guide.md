@@ -7,24 +7,25 @@ their choice and it is genuine because everything seems to be gold at the start,
 right? I am putting so much emphasis on this section because this may be the most
 crucial part of this whole journey, _trying to pick something to work upon_.
 
-[Map of Computer Science](https://youtu.be/SzJ46YA_RaA): A detailed video(sort of?) on CS and its disciplines. A must watch
-Harvard's CS50<<please add a working link here>>: A really good and highly recommended course on introduction to CS. It also provides a hands-on to the student.
+- **[Map of Computer Science](https://youtu.be/SzJ46YA_RaA)**: A detailed video(sort of?) on CS and its disciplines. A must watch
+- **Harvard's CS50(please add a working link here)**: A really good and highly recommended course on introduction to CS. It      also provides a hands-on to the student.
 
 
 
 ### Cryptography
 -------------------------------
-Art of the Problem: YT Channel
-Learn Crypto: Free course on Coursera
-crypto101.io: Free crypto manual and course
+**Art of the Problem**: YT Channel
+**Learn Crypto**: Free course on Coursera by Dan Boneh
+**crypto101.io**: Free crypto manual and course
 
 
 
 
-
-### Computer and Mobile Networks
+### Computer and Wireless Networks
 -------------------------------
-<<add resources>>
+- **Computer Networks: A Top-down approach; Kurose & Ross**: A must read book on Computer networks.
+- **[NPTEL course on Computer Networks](https://nptel.ac.in/courses/106105081/#) by Prof. Sujoy Ghosh**: A good and detailed course on computer networks.
+- To explore modern cellular networks, reading research papers would be a good start :)
 
 
 
