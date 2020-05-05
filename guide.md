@@ -63,10 +63,16 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 -------------------------------
 (add resources)
 
+### Computer Architecture
+-------------------------------
+(add resources)
 
 ### Operating Systems
 -------------------------------
-(add resources)
+Super tough and super rewarding if you get it right.
+There are different things that one may look for when trying to learn operating systems:
+* How to use operating systems: This deals with the interfaces they provide and a good book on this is [The Linux Programming Interface](http://man7.org/tlpi/). It deals with the features that linux provides to the user at the basic level. Really helpful to understand the interfaces that operating systems provide.
+
 
 
 ### Competitive Coding
