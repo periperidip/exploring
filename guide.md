@@ -72,7 +72,8 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 Super tough and super rewarding if you get it right.
 There are different things that one may look for when trying to learn operating systems:
 * How to use operating systems: This deals with the interfaces they provide and a good book on this is [The Linux Programming Interface](http://man7.org/tlpi/). It deals with the features that linux provides to the user at the basic level. Really helpful to understand the interfaces that operating systems provide.
-
+* Operating system concepts: This deals with abstract ideas of how operating systems work, their policies and mechanisms, and their role in a computer system. A computer science undergraduate would typically learn this in one of his courses. An excellent book to start off would be [Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/). Try to read Professor Andrew S. Tanenbaum's books as well (He made Minix).
+* Operating system development: This deals with making an operating system/components of it. It is arguably the toughest task in Computer Engineering. Doing this is HARD! A good place to start would be the [OsDev wiki](wiki.osdev.org).
 
 
 ### Competitive Coding
