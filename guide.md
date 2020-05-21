@@ -29,14 +29,14 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
     - tensorflow
     - boost
     - OpenCV, to name a few..
-   
-    Also, one can look at the Google Summer of Code Organizations page. I am advising this because it has a ton of  organisations, using different types of languages and tools, all at one place.
     
+    
+    Also, one can look at the Google Summer of Code Organizations page. I am advising this because it has a ton of  organisations, using different types of languages and tools, all at one place.
   
   - **Why contribute to Open Source?** Because, you get to learn tons of new things! Such organisations have a codebase which spans millions of lines hence this aids in increasing one's capability to connect the dots in a large codebase(which two functions and classes are related to each other etc.) Open source orgs have a **NO bullshit policy**, meaning they don't tolerate people who don't want to learn and are just depending on others to write their code. They are very nitpicky meaning they look at the smallest of the errors possible, ranging from using tabs instead of spaces, to a ill-formed commit message. They provide a genuine opportunity to someone to grow.
   
   - Though this is not _exactly_ related to open source, but my advice to the reader would be that they try answering to people's questions on StackOverlfow and Reddit because these websites too have a no-bullshit policy and if you try to mess around with them you get downvoted to hell.
-  
+
  I hope this helps you :)
 
 
@@ -108,8 +108,68 @@ These are just a few things to keep in mind as a beginner. You will be able to f
 -------------------------------
 (add resources)
 
-
 ### Game Development
+
+#### When you want to make a game
+
+1. Pick up an engine.
+2. Start using it.
+3. Understand the architecture followed by it.
+4. Publish? (completing a game is daunting task)
+
+##### Engines
+
+* Editor based
+
+  * Unity / Unreal (bread and butter engine for indies/AA/AAA studios, GUI based editor)
+  * Godot (Open Source, kinda new, GUI based editor)
+
+  All three of them have a dedicated forum to ask/answer question. However, for Unity take a look at [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) and for Godot take a look at [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
+
+* Code based
+
+  * Raylib (Great for starting out, beginner friendly)
+  * Cocos2d-x (Seems small and unpopular but It is **hugely** popular in Asia)
+  * LibGDX (It is java based, so **GC** is available for help)
+
+  Again, all of them have respective forums to ask/answer questions.
+
+  For Raylib, I would recommend joining their [discord](https://discord.com/invite/VkzNHUE) server to ask questions 
+
+  For Cocos2d-x see [Ray's website](https://www.raywenderlich.com/), it is mobile focused so you would find topics related to Android/iOS too. It's hard to find tutorials in English (most of them are in Chinese)
+
+##### Guides
+
+* Besides these specific resources check Mike's website [Games From Scratch](https://www.gamefromscratch.com) especially his [Getting Started Guide](https://www.gamefromscratch.com/page/Getting-Started.aspx) and Game Engine Introduction Series where he setup and review game engines/ framework.
+* **r/gamedev** has a detailed [getting started guide](https://www.reddit.com/r/gamedev/wiki/faq#wiki_getting_started)
+
+#### When you want to learn the in and out of a typical game
+
+Keep in mind that *video game is just a big while loop*. Everything else is normal everyday programming.
+
+##### Making Game Engine
+
+* The best way to learn the internals. Take a look at [TheCherno's Game Engine Programming Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
+
+##### Graphic Programming
+
+Programming the graphical aspect of games. 
+
+* Start with [OpenGL](https://learnopengl.com/). Keep your linear algebra in check.
+* For Vulkan, check [Khronos Group's starting guide](https://www.khronos.org/blog/beginners-guide-to-vulkan). Although OpenGL is enough for hobbyist and fundamentals, Vulkan is the future. I wouldn't recommend going this far.
+* To learn CG from scratch visit [ScratchAPixel 2.0](https://www.scratchapixel.com/) It's the best guide for CG fundamentals.
+* [Tiny Renderer](https://github.com/ssloy/tinyrenderer) is a brief version of ScratchAPixel (skipping some concepts like ray tracing).
+
+##### Misc
+
+* When you start spitting *spaghetti code* then [Game Programming Patterns](https://gameprogrammingpatterns.com/) will help. These patterns are useful in general programming too. Bob's [Crafting Interpreters](https://craftinginterpreters.com/) is a gem for programming language development. It's so good that due to lack of section, I am mentioning it here.
+* Networking is an interesting part of multiplayer games (most interesting for me), check [Gaffer On Games](https://gafferongames.com/) and [Valve's articles](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking). These resources are a very high level view of this topic.
+* [Gamasutra](https://www.gamasutra.com/) is a website focused in game development. There are many great articles.
+* For talks and slides related to this field watch Game Developers Conferences. Their archives [GDC Vault](https://www.gdcvault.com/)
+* Join [r/gamedev](https://www.reddit.com/r/gamedev/) to find more guides/articles/news related to this field.
+
+
+
 -------------------------------
 (add resources)
 
