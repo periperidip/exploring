@@ -39,6 +39,21 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 
  I hope this helps you :)
 
+### Coding
+-------------------------------
+
+### C++
+#### Basics to Advanced
+- Accelerated C++ by Andrew Koenig: Effective for students starting with C++
+- A tour of C++ by Bjarne Stroustrup: Effective for those who wants to revisit C++
+- Effective Modern C++ by Scott Meyers: A medium difficulty book expecting a decent grasp over C++. Explains the key features of modern C++.
+- C++ Template Metaprogramming by Aleksey Gurtovoy: An advanced book for enthusiasts who wishes to play with type traits and compile time optimizations.
+- Modern C++ design by Andrei Alexandrescu: An advanced book for enthusiasts who wants to build massive C++ libraries and wants a standard to help them build.
+- Concurrency in Action by Anthony D. Williams: An advanced book for enthusiasts who wants to use the multithreading features introduced in C++11.
+
+#### Misc Resources
+- **[Cherno's C++ series](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb):** Really useful if you're starting with C++.
+- **[C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/cplusplus.html):** Can be considered as a manual for C++.
 
 ### Cryptography
 -------------------------------
@@ -58,9 +73,9 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 - To further explore modern cellular networks, reading research papers would be a good start.
 
 
-### Parallel Computing
+### High Performance Computing
 -------------------------------
-(add resources)
+- **[ACM IITR's Guide to HPC](https://medium.com/@acmiitr/guide-to-high-performance-computing-b2d9c9a2f77e)** 
 
 
 ### Quantum Computing
