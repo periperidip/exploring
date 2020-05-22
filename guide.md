@@ -210,9 +210,3 @@ Programming the graphical aspect of games.
   - [Nodejs course](https://www.youtube.com/watch?v=fBNz5xF-Kx4&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu) by Brad Traversy.
 - I think these are enough to pave your way through the **basics** of web developement.
 
-Feel free to add more topics and their resources!
-Share this for the betterment of the society :)
-
-A note to the committer: please keep the formatting
-consistent(such as the number of 'dashes' after a topic and
-other such semantics.
