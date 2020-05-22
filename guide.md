@@ -65,7 +65,7 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 
 ### Computer Architecture
 -------------------------------
-(add resources)
+This deals with the design of computers, and how their are architected. Really cool if you like knowing how stuff works and so on. [MIT's 6.004](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/) is a great place to start. 
 
 ### Operating Systems
 -------------------------------
