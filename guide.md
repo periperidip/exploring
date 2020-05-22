@@ -181,9 +181,34 @@ Programming the graphical aspect of games.
 
 
 ### Web Development
--------------------------------
-(add resources)
 
+- There are no prequisite though, but you should have a habit of googling things because on the go you need a heck lot of knowledge about multiple things extending from OOPs to cloud computing to security. Why you need to know about these? Because :
+  - You want your web app source code to be scalable(as new features are getting added, complexity increases which can only be coped up by following some proper structure and principles).
+  - You don't want your web app server to go down due to increase in user traffic. 
+  - You don't want your web app to be vulnerable and exploitable. 
+
+<img src="https://user-images.githubusercontent.com/42354803/82653600-16f03300-9c3d-11ea-888e-6eaac69740c3.png" height="1250" width="48%" align="left"/>
+
+<img src="https://user-images.githubusercontent.com/42354803/82653597-15bf0600-9c3d-11ea-97ea-b3d75ee10a4d.png" height="1250" width="48%"/> 
+
+- Start with obvious stuff, HTML and CSS. They may seem a bit boring but they are the core of webdev. So, here are some of the resources: 
+  - This is an introductory [course](https://www.coursera.org/learn/web-development) to web development.
+  - [W3Schools](https://www.w3schools.com/) is one of the most popular website to learn basics in minutes.
+- Next thing to learn is Javascript a.k.a JS. This is used for both frontend and backend work and in fact it's used for non-browser work too. JS is bundled with many principles and structures. You should also know how to use OOPs with JS. So here are some of the great resources:
+  - [Telusko Javascript Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV)
+  - [Object-oriented Programming in JavaScript: Made Super Simple ](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+  - [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/course/javascript-es6-tutorial/) by Stephen Grider (68 lectures / 6hrs).
+- Now once you are done with basics, you are ready to learn some awesome frontend frameworks(I would really urge you to first understand what's difference between these frameworks and normal HTML & CSS, trust me internals are really soothing and beautiful):
+  - **[ReactJS](https://reactjs.org/)** : When it comes to creating painless and interactive *heavy* UIs, this is the best to opt.  
+    - [React for beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) by Codevolution.
+    - [React component, elements and instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.rjx4d6bgw) by Dan Abramov.
+  - **[Vuejs](https://vuejs.org/)** : Vuejs is really easy to get grasp on, it takes hardly any time to write code in Vue. And best things about Vue are elegant programming style and patterns and  massive documentation.
+    - [Vue documentation](https://vuejs.org/v2/guide/) Trust me, this is really good! 
+    - [VueJs Crash course](https://www.youtube.com/watch?v=Wy9q22isx3U)
+- Now, let's hope into backend/server-side stuffs. For a beginner, it's always good to start with [NodeJs](https://nodejs.org/en/) because you have already learnt Javascript(I hope you followed my prior steps :P) before, so it will be very easy to catch up new concepts. Nodejs is JavaScript runtime environment that lets developers write command line tools and server-side scripts outside of a browser. Here are some of the resources with which you can get started: 
+  - [Nodejs internals(Must read)](https://medium.com/softup-technologies/node-js-internals-an-introduction-to-nodes-runtime-and-architecture-d6ec295c05ab)
+  - [Nodejs course](https://www.youtube.com/watch?v=fBNz5xF-Kx4&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu) by Brad Traversy.
+- I think these are enough to pave your way through the **basics** of web developement.
 
 Feel free to add more topics and their resources!
 Share this for the betterment of the society :)
