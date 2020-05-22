@@ -112,7 +112,46 @@ These are just a few things to keep in mind as a beginner. You will be able to f
 
 ### ML/DL
 -------------------------------
-- VLG (Vision and Language group) IITR's [blog](https://medium.com/vlgiitr/guide-to-deep-learning-585bfcad0b43) on starting DL
+To start with Deep learning first, you will need to brush off some basic Machine Learning skills. You can do any of the below to get a basic idea about Machine Learning  
+- **[Machine Learning Coursera](https://www.coursera.org/learn/machine-learning)**: The most popular course on Machine Learning. It explains most of the basic concepts in ML in an easy manner. Highly recommended. Cons - It might come off as a bit boring.
+- **[UD120 - Udacity Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)**: If you find the Coursera ML course boring, try this one. It's illustrative, fast-paced and more implementation focused. Cons- A bit less comprehensive than the Coursera ML course.    
+- **[Machine Learning Stanford CS229](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)**: This is a fairly advanced course on ML. Highly comprehensive, great for a deep-dive into ML fundamentals. Recommended only if you want an advanced knowledge in ML.  
+
+The above courses will give you a brief introduction to ML. After this to begin with DL, we highly suggest reading **[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)**. It gives a highly intuitive beginner level introduction to DL. After this it's suggested to do the **[Deep Learning Specialization by Coursera](https://www.coursera.org/specializations/deep-learning)**. A general recommendation would be to read the **[Deep Learning Book by Goodfellow et al.](https://www.deeplearningbook.org/)**. It is the so-called "Bible" of DL and a highly recommended read.  
+
+Now for more advanced knowledge, there is a lot you can do, and honestly, you can never do enough. The field is growing at a mind-numbing rate and its tough to keep track of all the stuff going on. Still here are a few "standard" advanced level things to do: 
+ #### Linear Algebra  
+ - **[Essence of Linear Algebra 3B1B](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)**: Do yourself a favour and watch this awesome piece of art. It's the most aesthetically pleasing way Linear Algebra has ever been taught. 
+ - **[Linear Algebra Review and Reference CS229](http://cs229.stanford.edu/section/cs229-linalg.pdf)**: A crisp and easy to understand explanation of the concepts of Linear Algebra you will need in Deep Learning.
+ - **[MIT OCW 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)**: Recommended if you want to deep dive into Linear Algebra. Will teach you pretty much everything you'll ever need in DL. PS. It helps a lot in Quantum Computing as well :P  
+
+#### Probability  
+- **[Stanford Probability Stat110](https://projects.iq.harvard.edu/stat110/home)**: If you think that probability is only limited to Bayes Rule, watch this and have your mind-blown as the instructor derives results to highly complex problems seemingly out of nowhere leaving you awestruck.  
+
+#### Computer Vision 
+- **[Stanford Computer Vision CS231n](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)**: The defacto choice to dive deep into Computer Vision. We'll recommend doing the first seven lectures from the 2016 version and then continuing off to recent year versions for other recent topics.  
+  
+#### Natural Language Processing (NLP)  
+- **[Stanford NLP course CS224n](http://web.stanford.edu/class/cs224n/)**: The defacto choice to dive deep into NLP.  
+
+#### Reinforcement Learning (RL)  
+- **[RL course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)**: RL course by DeepMind the leading organization in the field. Awesome for an easy introduction to the field. 
+- **[RL course by UC Berkley](http://rail.eecs.berkeley.edu/deeprlcourse/)**: A relatively more advanced and comprehensive introduction to RL. 
+- **[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)**: The Bible of RL. Super comprehensive and highly recommended.  
+  
+#### Implementation 
+- **[Deep Learning with Pytorch by Udacity](https://classroom.udacity.com/courses/ud188)**: To get familiar with PyTorch. 
+-  **[TensorFlow in Practice by Coursera](https://www.coursera.org/specializations/tensorflow-in-practice?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesTFSTopButton)**: To get familiar with Tensorflow.  
+
+#### General Resources for DL 
+- **[Guide to Deep Learning](https://medium.com/vlgiitr/guide-to-deep-learning-585bfcad0b43)**: A comprehensive Guide to Deep Learning. 
+- **[Distill](https://distill.pub/)**: Awesome blogs on deep learning with highly interactive visualizations.
+- **[Towards Data Science](https://towardsdatascience.com/)**: Collection of premium quality blogs on datascience on medium.
+- **[DL topics](https://github.com/vlgiitr/DL_Topics)**: Detailed list of general topics in DL to read about to get a respectable amount of knowledge in the field.
+
+Aside from all this. Keep on reading blogs on Medium, recent research papers on Google scholar. Follow leading researchers on Twitter and join discussions on Reddit. Keep on contributing to OpenSource Projects or take on a project yourself. Keep on mailing professors or budding startups until someone gives in and offers you a research position. Success in DL is slow but its highly rewarding :P
+
+
 
 
 ### Mobile Development
