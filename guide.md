@@ -51,7 +51,11 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 -------------------------------
 - **Computer Networks: A Top-down approach; Kurose & Ross**: A must read book on Computer networks.
 - **[NPTEL course on Computer Networks](https://nptel.ac.in/courses/106105081/#) by Prof. Sujoy Ghosh**: A good and detailed course on computer networks.
-- To explore modern cellular networks, reading research papers would be a good start :)
+- **Video** on [Network Coding](https://youtu.be/B0ZcAWEvjCA) and [MIMO](https://youtu.be/cbD4NsZQKYw) **by Art of the Probllem**.
+- **A glossary of terms used in Telecommunication:** [TelecomABC](http://www.telecomabc.com/)
+- **Communication Systems by Linköping University:** A good [channel](https://www.youtube.com/channel/UCOrjRoYJPqGiR1SZvU3xcYQ) I just came across which explains key cellular network concepts.
+- **alantalkstech:** Another youtube [channel](https://www.youtube.com/user/alantalkstech)which explains networks concepts _(this may be a bit high level so proceed with caution)_.
+- To further explore modern cellular networks, reading research papers would be a good start.
 
 
 ### Parallel Computing
@@ -106,12 +110,18 @@ These are just a few things to keep in mind as a beginner. You will be able to f
  </p>
 
 
+### ML/DL
+-------------------------------
+- VLG (Vision and Language group) IITR's [blog](https://medium.com/vlgiitr/guide-to-deep-learning-585bfcad0b43) on starting DL
+
+
 ### Mobile Development
 -------------------------------
 (add resources)
 
 
 ### Game Development
+-------------------------------
 
 #### When you want to make a game
 
@@ -174,14 +184,14 @@ Programming the graphical aspect of games.
 
 ### Exploits and pwning
 -------------------------------
-- **https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN**: liveoverflow binary hacking playlist
+- [LiveOverFlow's binary hacking playlist](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN): A good playlist to know about binary hacking as well as C and Linux.
 - **pwnable.kr**: Challenges starting from basic programming errors to standard pwnables
 - **gracker.org**: Nice binary exploitation challenge series. Good for beginners
 - **https://dhavalkapil.com/archive/**: Blogs by Dhaval Kapil on some basic/intermediate information security
 
 
 ### Web Development
-
+-------------------------------
 - There are no prequisite though, but you should have a habit of googling things because on the go you need a heck lot of knowledge about multiple things extending from OOPs to cloud computing to security. Why you need to know about these? Because :
   - You want your web app source code to be scalable(as new features are getting added, complexity increases which can only be coped up by following some proper structure and principles).
   - You don't want your web app server to go down due to increase in user traffic. 
