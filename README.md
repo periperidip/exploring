@@ -5,9 +5,9 @@ This guide was made as a part of my own explorations and curiosities in Computer
 
 I am making this guide **without any purpose of self-profit**. This is to help the future generations of this branch as well as anyone who ever wants to learn! I intend to add various disciplines and their resources with the help of others and then maybe add some _"not-so-useful"_ stuff too in the future.
 
-I will try to make this README more helpful and informative in the future, and maybe add links to the specific portions of the guide here itself. As of now, this guide only mentions the various CS fields as of now, though, I plan on adding some specifics such as some historic references about CS, trusted guides to programming languages, mastering tools such as Git and, _well_ thats all I can think of right now.
+I will try to make this README more helpful and informative in the future, and maybe add links to the specific portions of the guide here itself. As of now, this guide only mentions the various CS fields, though, I plan on adding some specifics such as some historic references about CS, trusted guides to programming languages, mastering tools such as Git and.. thats all I can think of right now.
 
-The guide is located in the `guide.txt` file.
+The guide is located in the `guide.md` file.
 
 Also, when adding things, please keep the formatting consistent! It will be of great help to me! Keep the information added discrete and not too descriptive.
 PS: Please suggest a more apt and crisp name for this repository and its description ;)
