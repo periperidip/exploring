@@ -8,7 +8,7 @@ right? I am putting so much emphasis on this section because this may be the mos
 crucial part of this whole journey, _trying to pick something to work upon_.
 
 - **[Map of Computer Science](https://youtu.be/SzJ46YA_RaA)**: A detailed video(sort of?) on CS and its disciplines. A must watch
-- **Harvard's CS50(please add a working link here)**: A really good and highly recommended course on introduction to CS. It      also provides a hands-on to the student.
+- **[Harvard's CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)**: A really good and highly recommended course on introduction to CS. It also provides a hands-on experience to the student.
 
 
 ### Contributing to Open Source
@@ -63,9 +63,11 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 -------------------------------
 (add resources)
 
+
 ### Computer Architecture
 -------------------------------
 This deals with the design of computers, and how their are architected. Really cool if you like knowing how stuff works and so on. [MIT's 6.004](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/) is a great place to start. 
+
 
 ### Operating Systems
 -------------------------------
@@ -107,6 +109,7 @@ These are just a few things to keep in mind as a beginner. You will be able to f
 ### Mobile Development
 -------------------------------
 (add resources)
+
 
 ### Game Development
 
@@ -169,11 +172,6 @@ Programming the graphical aspect of games.
 * Join [r/gamedev](https://www.reddit.com/r/gamedev/) to find more guides/articles/news related to this field.
 
 
-
--------------------------------
-(add resources)
-
-
 ### Exploits and pwning
 -------------------------------
 - **https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN**: liveoverflow binary hacking playlist
@@ -185,10 +183,6 @@ Programming the graphical aspect of games.
 ### Web Development
 -------------------------------
 (add resources)
-
-
-
-
 
 
 Feel free to add more topics and their resources!
