@@ -171,7 +171,57 @@ Aside from all this. Keep on reading blogs on Medium, recent research papers on 
 
 ### Mobile Development
 -------------------------------
-(add resources)
+Here's a list of beginner resources for mobile development in **Android** and **Flutter**.
+### Android Resources
+- First of all, you must have a basic knowledge of **Java** or **Kotlin** language to get started with Android development.
+- Setting up the Android Studio IDE, the most preferable for Android development, is a great option to go ahead. Refer [here](https://developer.android.com/studio/install) for installation guides.
+- The best resource to refer to for Android developers is [Official Android Developer documentation](https://developer.android.com/docs). It contains every resource you need for Android development.
+- Starting with some tutorials or courses that make developing apps from scratch is a great way to start getting deep dive into Android. Here are a few suggestions from me:
+	- **Android Development for Beginner by Udacity** - A complete beginner-friendly course series by Google for learning basics of the android development.
+		- **[Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)** - Learn how the hand-drawn app designs are transformed into layouts in phones.
+		- **[Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)** - Learn how to add interactivity to the apps with some basics of object-oriented programming.
+		- **[Android Basics: Multiple App Screens](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)** - Learn how to show multiple screens and add visual changes on touch events.
+		- **[Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)** - Learn the basics of networking in Android.
+		- **[Android Basics: Data Storage](https://www.udacity.com/course/android-basics-networking--ud843)** - Learn how storing data works in mobile applications.
+
+	- **[Google Codelabs for Android](https://codelabs.developers.google.com/android-training/)** - Awesome interactive tutorials that teach you the fundamentals of building Android applications.
+- After learning about the basics of the frontend and networking, it's also necessary to take a look at the backend. Implementing a self-made backend might become difficult for the beginner. So, Firebase by Google proves to be a great solution with easy use APIs. It provides all the facilities such as database, cloud messaging, and many more. Here are some resources to get on with Firebase:
+	- **[Firebase Documentation](https://firebase.google.com/docs/guides)** - A complete step-by-step guide that helps you get started with Firebase.
+	- **[Tutorial for Firebase implementation](https://www.youtube.com/playlist?list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt)** - Complete video series for implementation of Firebase in mobile applications.
+- Also, implementing material design is a great way to improve the UI and UX of the app. They make your app look more realistic and enhance user experiences. Here's an excellent resource from Android Team.
+	- **[Material Design](https://material.io/develop/android/)**
+- Some blogs containing short tutorials, tips, and hacks for Android developers.
+	- **[Vogella Android Tutorials](https://www.vogella.com/tutorials/android.html)**
+	- **[Android Hive](https://www.androidhive.info/)**
+
+### Flutter Resources
+- First of all, why learn Flutter if Android is already present? It's a cross-platform UI toolkit that helps developers build apps for Android and iOS from a single codebase.
+- It has its own benefits. Some of them are
+	- **Hot Reload** - Build your code to life in just milliseconds that make development faster.
+	- **Expressive, beautiful UIs** - Helps to delight the users with great UI with incredibly fast rendering and flexible designs.
+	- **Native Performance** - Flutter’s widgets incorporate all critical platform differences such as scrolling, navigation, icons, and fonts to provide full native performance on both iOS and Android.
+- **[Flutter Docs](https://flutter.dev/docs)**
+	- It's obvious as in Android, but it is a good and thorough walkthrough of Flutter. Even it gives directions for getting started with Flutter if familiar with any other mobile development environment such as Android, iOS, React Native. Here are the links for the same:
+		- **[Flutter for Android Developers](https://flutter.dev/docs/get-started/flutter-for/android-devs)**
+		- **[Flutter for iOS Developers](https://flutter.dev/docs/get-started/flutter-for/ios-devs)**
+		- **[Flutter for React Native Developers](https://flutter.dev/docs/get-started/flutter-for/react-native-devs)**
+- **[Google Codelabs for Flutter](https://flutter.dev/docs/codelabs)** - This provides a guided, hands-on coding experience on building Flutter apps.
+- **[Udacity - Build Native Mobile Apps with Flutter](https://in.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)** - This course can be a great start to get know things about Flutter. It is being offered by the Flutter team.
+- **[Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)** - A video series on youtube each explaining the working of a single widget in Flutter.
+- **[Awesome Flutter](https://github.com/Solido/awesome-flutter)** - A GitHub repository with a great list of the best Flutter libraries, tools, tutorials, articles and many more.
+- Some good blogs containing short tutorials and latest news about Flutter.
+	- **[Blogs by Flutter](https://medium.com/flutter-io)**
+	- **[Medium - Deven Joshi](https://medium.com/@dev.n)**
+- Flutter also has a huge community where you can do any discussions, showcases and many more related to Flutter. Here is the list:
+	- **[Gitter Chat](https://gitter.im/flutter/flutter)**
+	- **[Flutter Community Slack](https://fluttercommunity.dev/joinslack)**
+	- **[Reddit - Flutter Dev](https://www.reddit.com/r/FlutterDev/)**
+	- **[Discord - Flutter Dev](https://discord.gg/N7Yshp4)**
+	- **[Twitter - Flutter Dev](https://twitter.com/flutterdev)**
+
+**[Stack Overflow](https://stackoverflow.com/)** - This Q/A platform will most probably answer to any of your problems in the development. If sometimes it misses, **[Google](https://www.google.com/)** is always there to help you!
+
+I think these are enough resources to get you familiar with the mobile development field, whether it is Android or Flutter!
 
 
 ### Game Development
