@@ -80,7 +80,7 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 
 ### Quantum Computing
 -------------------------------
-(add resources)
+**Blog by ACM IITR:** This [blog](https://medium.com/@acmiitr/guide-to-quantum-computing-d9249d400e2) provides a good starter pack on QC.
 
 
 ### Computer Architecture
