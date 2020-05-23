@@ -174,8 +174,8 @@ Aside from all this. Keep on reading blogs on Medium, recent research papers on 
 Here's a list of beginner resources for mobile development in **Android** and **Flutter**.
 ### Android Resources
 - First of all, you must have a basic knowledge of **Java** or **Kotlin** language to get started with Android development.
-- Setting up the Android Studio IDE, the most preferable for Android development, is a great option to go ahead. Refer [here](https://developer.android.com/studio/install) for installation guides.
-- The best resource to refer to for Android developers is [Official Android Developer documentation](https://developer.android.com/docs). It contains every resource you need for Android development.
+- Setting up the Android Studio IDE, the most preferable for Android development, is a great option to go ahead. Refer **[here](https://developer.android.com/studio/install)** for installation guides.
+- The best resource to refer to for Android developers is **[Official Android Developer documentation](https://developer.android.com/docs)**. It contains every resource you need for Android development.
 - Starting with some tutorials or courses that make developing apps from scratch is a great way to start getting deep dive into Android. Here are a few suggestions from me:
 	- **Android Development for Beginner by Udacity** - A complete beginner-friendly course series by Google for learning basics of the android development.
 		- **[Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)** - Learn how the hand-drawn app designs are transformed into layouts in phones.
