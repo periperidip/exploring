@@ -55,6 +55,9 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 - **[Cherno's C++ series](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb):** Really useful if you're starting with C++.
 - **[C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/cplusplus.html):** Can be considered as a manual for C++.
 
+### Other programming tools and concepts
+- **Free books on goalkicker:** This website contains free reference books on programming languages (such as C, C++, Ruby, Java, etc.), tools such as Git, Powershell and frameworks such as ReactJS, .NET, AngularJS, etc.). Totally worth checking out! 
+
 ### Cryptography
 -------------------------------
 - **Art of the Problem**: YT Channel
@@ -66,7 +69,7 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 -------------------------------
 - **Computer Networks: A Top-down approach; Kurose & Ross**: A must read book on Computer networks.
 - **[NPTEL course on Computer Networks](https://nptel.ac.in/courses/106105081/#) by Prof. Sujoy Ghosh**: A good and detailed course on computer networks.
-- **Video** on [Network Coding](https://youtu.be/B0ZcAWEvjCA) and [MIMO](https://youtu.be/cbD4NsZQKYw) **by Art of the Probllem**.
+- **Video** on [Network Coding](https://youtu.be/B0ZcAWEvjCA) and [MIMO](https://youtu.be/cbD4NsZQKYw) **by Art of the Problem**.
 - **A glossary of terms used in Telecommunication:** [TelecomABC](http://www.telecomabc.com/)
 - **Communication Systems by Linköping University:** A good [channel](https://www.youtube.com/channel/UCOrjRoYJPqGiR1SZvU3xcYQ) I just came across which explains key cellular network concepts.
 - **alantalkstech:** Another youtube [channel](https://www.youtube.com/user/alantalkstech)which explains networks concepts _(this may be a bit high level and obsolete (the videos date back to late 2000s so proceed with caution)_.
@@ -76,7 +79,7 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 - A good **blog** on [Massive MIMO](https://ma-mimo.ellintech.se/what-is-massive-mimo/)
 - To further explore modern cellular networks, reading research papers would be a good start.
 
-* I will be creating a Google Drive link to host variouos books, videos and research papers that I have found. Need some free time for that :)
+I will be creating a Google Drive link to host variouos books, videos and research papers that I have found. Need some free time for that :)
 
 
 ### High Performance Computing
