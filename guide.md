@@ -69,8 +69,14 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 - **Video** on [Network Coding](https://youtu.be/B0ZcAWEvjCA) and [MIMO](https://youtu.be/cbD4NsZQKYw) **by Art of the Probllem**.
 - **A glossary of terms used in Telecommunication:** [TelecomABC](http://www.telecomabc.com/)
 - **Communication Systems by Linköping University:** A good [channel](https://www.youtube.com/channel/UCOrjRoYJPqGiR1SZvU3xcYQ) I just came across which explains key cellular network concepts.
-- **alantalkstech:** Another youtube [channel](https://www.youtube.com/user/alantalkstech)which explains networks concepts _(this may be a bit high level so proceed with caution)_.
+- **alantalkstech:** Another youtube [channel](https://www.youtube.com/user/alantalkstech)which explains networks concepts _(this may be a bit high level and obsolete (the videos date back to late 2000s so proceed with caution)_.
+- **Introductory video on 5G:** A good introductory [video](https://youtu.be/GEx_d0SjvS0) by IEEE on 5G technologies.
+- **edX course on 4G:** [Here](https://www.edx.org/course/4g-network-essentials) is the course.
+- [Telecome Networking](http://www.eventhelix.com/RealtimeMantra/#Telecom_Networking)
+- A good **blog** on [Massive MIMO](https://ma-mimo.ellintech.se/what-is-massive-mimo/)
 - To further explore modern cellular networks, reading research papers would be a good start.
+
+* I will be creating a Google Drive link to host variouos books, videos and research papers that I have found. Need some free time for that :)
 
 
 ### High Performance Computing
