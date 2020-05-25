@@ -1,11 +1,10 @@
 ### Introduction to CS
 -------------------------------
-<pre style="font-family:Arial, Helvetica, sans-serif;">  
-             “First we thought the PC was a calculator. Then we found out how to turn numbers 
-                      into letters with ASCII — and we thought it was a typewriter. Then we
-                           discovered graphics, and we thought it was a television.  With the
-                                   World Wide Web, we’ve realized it’s a brochure.”
-                                                - Douglas Adams
+<pre>               “First we thought the PC was a calculator. Then we found out how to turn numbers 
+                       into letters with ASCII — and we thought it was a typewriter. Then we
+                    discovered graphics, and we thought it was a television.  With the World Wide Web,
+                                    we’ve realized it’s a brochure.”  - Douglas Adams
+                                               
 </pre>
  <br/>
 This section contains the starter pack to understanding Computer Science.
