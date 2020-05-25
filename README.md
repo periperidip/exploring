@@ -11,4 +11,4 @@ The guide is located in the `guide.md` file.
 
 Also, when adding things, please keep the formatting consistent! It will be of great help to me! Keep the information added discrete and not too descriptive.
 PS: Please suggest a more apt and crisp name for this repository and its description ;)
-sample lines...
+
