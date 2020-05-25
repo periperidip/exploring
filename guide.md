@@ -306,8 +306,13 @@ Programming the graphical aspect of games.
 -------------------------------
 - [LiveOverFlow's binary hacking playlist](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN): A good playlist to know about binary hacking as well as C and Linux.
 - **pwnable.kr**: Challenges starting from basic programming errors to standard pwnables
+- **pwnable.xyz**: Challenges based on easy-to-find vulns and interesting exploits
 - **gracker.org**: Nice binary exploitation challenge series. Good for beginners
 - **https://dhavalkapil.com/archive/**: Blogs by Dhaval Kapil on some basic/intermediate information security
+- **pwnable.tw**: Medium to difficult pwning challenges. Great if you want to try your hands on some real world exploit development.
+- [Gynvael Coldwind's youtube channel](https://www.youtube.com/user/GynvaelEN): One of the best channels if you want some good CTF experience, tips and reverse engineering tips too.
+- [Murmus CTF youtube channel](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A): Channel talking about real world exploit development and 0days.
+- [Shellphish how2heap](https://github.com/shellphish/how2heap): This repo contains POCs of the standard and modern heap based exploits and their well-put explanation.
 
 
 ### Web Development
