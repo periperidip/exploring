@@ -325,11 +325,16 @@ Programming the graphical aspect of games.
   - **[ReactJS](https://reactjs.org/)** : When it comes to creating painless and interactive *heavy* UIs, this is the best to opt.  
     - [React for beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) by Codevolution.
     - [React component, elements and instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.rjx4d6bgw) by Dan Abramov.
+    - React is incomplete without redux. So do check it out.
   - **[Vuejs](https://vuejs.org/)** : Vuejs is really easy to get grasp on, it takes hardly any time to write code in Vue. And best things about Vue are elegant programming style and patterns and  massive documentation.
     - [Vue documentation](https://vuejs.org/v2/guide/) Trust me, this is really good! 
     - [VueJs Crash course](https://www.youtube.com/watch?v=Wy9q22isx3U)
 - Now, let's hope into backend/server-side stuffs. For a beginner, it's always good to start with [NodeJs](https://nodejs.org/en/) because you have already learnt Javascript(I hope you followed my prior steps :P) before, so it will be very easy to catch up new concepts. Nodejs is JavaScript runtime environment that lets developers write command line tools and server-side scripts outside of a browser. Here are some of the resources with which you can get started: 
   - [Nodejs internals(Must read)](https://medium.com/softup-technologies/node-js-internals-an-introduction-to-nodes-runtime-and-architecture-d6ec295c05ab)
   - [Nodejs course](https://www.youtube.com/watch?v=fBNz5xF-Kx4&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu) by Brad Traversy.
+  - **[Django](https://docs.djangoproject.com/en/3.0/)**: Django is one of the most customisable and user friendly production level web application backend.
+    - [Tutorial](https://docs.djangoproject.com/en/3.0/intro/) the documentation itself provides a great tutorial series.
+    - [REST framework](https://www.django-rest-framework.org/tutorial/quickstart/) django's implementation to build RESTful APIs without any hassle.
+  - **[Flask](https://flask.palletsprojects.com/en/1.1.x/)**: Flask is framework to build lighwieght backends swiftly in Python.
 - I think these are enough to pave your way through the **basics** of web developement.
 
