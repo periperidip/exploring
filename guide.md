@@ -61,8 +61,15 @@ The phrase you hear the most after coming to IITR is '1 cr ka package pakka' fol
 ### Cryptography
 -------------------------------
 - **Art of the Problem**: YT Channel
-- **Learn Crypto**: Free course on Coursera by Dan Boneh
-- **crypto101.io**: Free crypto manual and course
+- **[John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)**: YT Channel
+- **Practicing** 
+  - **[Cryptopals]**(https://cryptopals.com/): It is a great website to do challenges on cryptography. The challenges start with some basic string manipulation tasks, but after that they are grouped by theme. In most cases, you first implement something, then break it in several enlightening ways.This is a different way to learn about crypto than taking a class or reading a book.
+  - **[CryptoHack]**(https://cryptohack.org/): Another fun platform to learn crypto.
+  - Doing some CTF challenges is also helpful.
+- **Courses**
+  - **[Introduction to cryptography](https://www.youtube.com/watch?v=2aHkqB2-46k)** by Christof Paar
+  - **Learn Crypto**: Free course on Coursera by Dan Boneh
+  - **crypto101.io**: Free crypto manual and course
 
 
 ### Computer and Wireless Networks
