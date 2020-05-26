@@ -6,7 +6,7 @@
                                  we’ve realized it’s a brochure.”  - Douglas Adams
                                                
 </pre>
- <br/> 
+ <br/>
 This section contains the starter pack to understanding Computer Science.
 One obviously needs an introduction to the field before picking up an interest.
 Sometimes it takes people an year of exploration before they can pick a field of
@@ -20,31 +20,31 @@ crucial part of this whole journey, _trying to pick something to work upon_.
 
 ### Contributing to Open Source
 -------------------------------
-* The phrase you hear the most after coming to IITR is '1 cr ka package pakka' followed by 'Open source mein contribute kar!(*Tr:* Contribute to Open Source!!). So what exactly is  Open Source? How to get started in Open Source? You may find tons of definitions online, but here is a ~concise~ and _maybe_ easy to understand version.
- 
-   - **Open Source code** is a piece of code/program/application whose code is available online for free. This means that the code  is free to use and modify(though there may be certain extra constraints as well which depend on the licence used by the code).
- 
-   - Such programs may be developed by a person(s) or organization(s) and is maintained by a community of people who find the software interesting or worth contributing to. Some examples of tools/software falling in the open source category are: Git, Linux, VLC, OpenOffice, dia, etc.
-   
-   - Now, the main question is, **How to contribute to Open Source???!!** Mind you, this is a very subjective answer and may vary from person to person, but here it goes. _Generally_, Opn Source communities are very friendly to newcomers and help an enthusiastic learner a lot in getting started with contributions. Many organisations have a `Contributing` or `MyFirstContribution` type of guides which guide a newbie in getting around the code and provide an overview of the contribution process and what counts as contribution and how to start. Here is [Git's](https://github.com/git/git/blob/master/Documentation/MyFirstContribution.txt) guide. Many communities have a slack channel too for communication.
-   
-   - **How do I choose an organisation?!** The answer is well _not so simple_. It is totally upto someone which organisation does one have to choose to contribute to. Generally, it depends on which programming language interests you and what are **your** interests. For instance if someone has interests in networks and communication protocols and the like, they _may_ like OpenSSL. It is not necessary to contribute to a big shot organisation for starters. Some known names in Open source whose codebases are well-maintained are:
-     - OpenSSL
-     - Git
-     - CGAL(Computational Geometry and Algorithms Library)
-     - Kubernetes
-     - tensorflow
-     - boost
-     - OpenCV, to name a few..
-     
-     
-     Also, one can look at the Google Summer of Code Organizations page. I am advising this because it has a ton of  organisations, using different types of languages and tools, all at one place.
-   
-   - **Why contribute to Open Source?** Because, you get to learn tons of new things! Such organisations have a codebase which spans millions of lines hence this aids in increasing one's capability to connect the dots in a large codebase(which two functions and classes are related to each other etc.) Open source orgs have a **NO bullshit policy**, meaning they don't tolerate people who don't want to learn and are just depending on others to write their code. They are very nitpicky meaning they look at the smallest of the errors possible, ranging from using tabs instead of spaces, to a ill-formed commit message. They provide a genuine opportunity to someone to grow.
-   
-   - Though this is not _exactly_ related to open source, but my advice to the reader would be that they try answering to people's questions on StackOverlfow and Reddit because these websites too have a no-bullshit policy and if you try to mess around with them you get downvoted to hell.
- 
-  I hope this helps you :)
+The phrase you hear the most after coming to IITR is '1 cr ka package pakka' followed by 'Open source mein contribute kar!(*Tr:* Contribute to Open Source!!). So what exactly is  Open Source? How to get started in Open Source? You may find tons of definitions online, but here is a ~concise~ and _maybe_ easy to understand version.
+
+  - **Open Source code** is a piece of code/program/application whose code is available online for free. This means that the code  is free to use and modify(though there may be certain extra constraints as well which depend on the licence used by the code).
+
+  - Such programs may be developed by a person(s) or organization(s) and is maintained by a community of people who find the software interesting or worth contributing to. Some examples of tools/software falling in the open source category are: Git, Linux, VLC, OpenOffice, dia, etc.
+  
+  - Now, the main question is, **How to contribute to Open Source???!!** Mind you, this is a very subjective answer and may vary from person to person, but here it goes. _Generally_, Opn Source communities are very friendly to newcomers and help an enthusiastic learner a lot in getting started with contributions. Many organisations have a `Contributing` or `MyFirstContribution` type of guides which guide a newbie in getting around the code and provide an overview of the contribution process and what counts as contribution and how to start. Here is [Git's](https://github.com/git/git/blob/master/Documentation/MyFirstContribution.txt) guide. Many communities have a slack channel too for communication.
+  
+  - **How do I choose an organisation?!** The answer is well _not so simple_. It is totally upto someone which organisation does one have to choose to contribute to. Generally, it depends on which programming language interests you and what are **your** interests. For instance if someone has interests in networks and communication protocols and the like, they _may_ like OpenSSL. It is not necessary to contribute to a big shot organisation for starters. Some known names in Open source whose codebases are well-maintained are:
+    - OpenSSL
+    - Git
+    - CGAL(Computational Geometry and Algorithms Library)
+    - Kubernetes
+    - tensorflow
+    - boost
+    - OpenCV, to name a few..
+    
+    
+    Also, one can look at the Google Summer of Code Organizations page. I am advising this because it has a ton of  organisations, using different types of languages and tools, all at one place.
+  
+  - **Why contribute to Open Source?** Because, you get to learn tons of new things! Such organisations have a codebase which spans millions of lines hence this aids in increasing one's capability to connect the dots in a large codebase(which two functions and classes are related to each other etc.) Open source orgs have a **NO bullshit policy**, meaning they don't tolerate people who don't want to learn and are just depending on others to write their code. They are very nitpicky meaning they look at the smallest of the errors possible, ranging from using tabs instead of spaces, to a ill-formed commit message. They provide a genuine opportunity to someone to grow.
+  
+  - Though this is not _exactly_ related to open source, but my advice to the reader would be that they try answering to people's questions on StackOverlfow and Reddit because these websites too have a no-bullshit policy and if you try to mess around with them you get downvoted to hell.
+
+ I hope this helps you :)
 
 ### Coding
 -------------------------------
