@@ -199,6 +199,27 @@ Here's a list of beginner resources for mobile development in **Android** and **
 		- **[Android Basics: Multiple App Screens](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)** - Learn how to show multiple screens and add visual changes on touch events.
 		- **[Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)** - Learn the basics of networking in Android.
 		- **[Android Basics: Data Storage](https://www.udacity.com/course/android-basics-networking--ud843)** - Learn how storing data works in mobile applications.
+	
+	- **Understand Android Activity Lifecycle**
+		- **Moving to Single Activity Structure**
+			- [Single Activity: Why, When, and How on YouTube](https://www.youtube.com/watch?v=2k8x8V77CrU)
+			- [10 Best Practices for Moving to a Single Activity
+](https://www.youtube.com/watch?v=9O1D_Ytk0xg)
+		- **Android Lifecycle cheat sheet**
+			- [Single Activities](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
+			- [Multiple Activites](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-ii-multiple-activities-a411fd139f24)
+			- [Fragments](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd)
+			- [ViewModels, Translucent Activities and Launch Modes](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iv-49946659b094)
+		- **Detailed Guide**
+			- [Activity Lifecycle official guide](https://developer.android.com/guide/https://www.youtube.com/watch?v=7p22cSzniBMcomponents/activities/activity-lifecycle)
+	
+	- **Building maintainable and performant apps** 
+		- Once you have got a basic familiarity with Android Dev, it's highly important to learn about app architecture and start writing your apps in "proper" manner.
+		- [Android Jetpack: Improving App's Architecture](https://www.youtube.com/watch?v=7p22cSzniBM)
+		- [Guide to App Architecture](https://developer.android.com/jetpack/docs/guide)
+		- [Android Architecture Samples](https://github.com/android/architecture-samples)
+		- [Viewmodels and LiveData patterns and anti-patterns](https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
+		
 
 	- **[Google Codelabs for Android](https://codelabs.developers.google.com/android-training/)** - Awesome interactive tutorials that teach you the fundamentals of building Android applications.
 - After learning about the basics of the frontend and networking, it's also necessary to take a look at the backend. Implementing a self-made backend might become difficult for the beginner. So, Firebase by Google proves to be a great solution with easy use APIs. It provides all the facilities such as database, cloud messaging, and many more. Here are some resources to get on with Firebase:
@@ -207,6 +228,8 @@ Here's a list of beginner resources for mobile development in **Android** and **
 - Also, implementing material design is a great way to improve the UI and UX of the app. They make your app look more realistic and enhance user experiences. Here's an excellent resource from Android Team.
 	- **[Material Design](https://material.io/develop/android/)**
 - Some blogs containing short tutorials, tips, and hacks for Android developers.
+
+	- **[Android Developers Official Channel on YouTube](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg) 
 	- **[Vogella Android Tutorials](https://www.vogella.com/tutorials/android.html)**
 	- **[Android Hive](https://www.androidhive.info/)**
 
