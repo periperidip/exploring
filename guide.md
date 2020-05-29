@@ -302,6 +302,13 @@ Programming the graphical aspect of games.
 * Join [r/gamedev](https://www.reddit.com/r/gamedev/) to find more guides/articles/news related to this field.
 
 
+### How to get into Hacking
+-------------------------------
+- [How to get into Hacking: Livestream by Gynvael Coldwind](https://www.youtube.com/watch?v=9I5RAWGWj7I)
+- [So you want to get into security: Essay by by Parisa Tabriz](https://www.freecodecamp.org/news/so-you-want-to-work-in-security-bc6c10157d23/)
+- [picoCTF](https://picoctf.com/): great beginner friendly CTF, challenges stay online all year round
+
+
 ### Exploits and pwning
 -------------------------------
 - [LiveOverFlow's binary hacking playlist](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN): A good playlist to know about binary hacking as well as C and Linux.
@@ -313,6 +320,12 @@ Programming the graphical aspect of games.
 - [Gynvael Coldwind's youtube channel](https://www.youtube.com/user/GynvaelEN): One of the best channels if you want some good CTF experience, tips and reverse engineering tips too.
 - [Murmus CTF youtube channel](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A): Channel talking about real world exploit development and 0days.
 - [Shellphish how2heap](https://github.com/shellphish/how2heap): This repo contains POCs of the standard and modern heap based exploits and their well-put explanation.
+
+
+### Web Security
+-------------------------------
+- [Natas Wargame from overthewire](https://overthewire.org/wargames/natas/): Beginner friendly web-security challenges based on various topics, mostly covering php
+- [PortSwigger WebSecurity Academy](https://portswigger.net/web-security)
 
 
 ### Web Development
