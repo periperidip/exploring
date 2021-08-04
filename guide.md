@@ -23,8 +23,8 @@
 	* [Implementation](#implementation)
 	* [General Resources for DL](#general-resources-for-dl)
 * [Mobile Development](#mobile-development)
-* [Android Resources](#android-resources)
-* [Flutter Resources](#flutter-resources)
+	* [Android Resources](#android-resources)
+	* [Flutter Resources](#flutter-resources)
 * [Game Development](#game-development)
 	* [When you want to make a game](#when-you-want-to-make-a-game)
 	* [Engines](#engines)
@@ -228,7 +228,7 @@ Aside from all this. Keep on reading blogs on Medium, recent research papers on 
 ### Mobile Development
 -------------------------------
 Here's a list of beginner resources for mobile development in **Android** and **Flutter**.
-### Android Resources
+#### Android Resources
 - First of all, you must have a basic knowledge of **Java** or **Kotlin** language to get started with Android development.
 - Setting up the Android Studio IDE, the most preferable for Android development, is a great option to go ahead. Refer **[here](https://developer.android.com/studio/install)** for installation guides.
 - The best resource to refer to for Android developers is **[Official Android Developer documentation](https://developer.android.com/docs)**. It contains every resource you need for Android development.
@@ -273,7 +273,7 @@ Here's a list of beginner resources for mobile development in **Android** and **
 	- **[Vogella Android Tutorials](https://www.vogella.com/tutorials/android.html)**
 	- **[Android Hive](https://www.androidhive.info/)**
 
-### Flutter Resources
+#### Flutter Resources
 - First of all, why learn Flutter if Android is already present? It's a cross-platform UI toolkit that helps developers build apps for Android and iOS from a single codebase.
 - It has its own benefits. Some of them are
 	- **Hot Reload** - Build your code to life in just milliseconds that make development faster.
